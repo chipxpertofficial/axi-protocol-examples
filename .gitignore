@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+*.vcd
+*.vvp
+obj_dir/
+*.bit
+*.asc
+*.json
